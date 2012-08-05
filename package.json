@@ -23,7 +23,7 @@
   "repositories": [
     {
       "type": "git", 
-      "url": "http://github.com/jfromaniello/jam-jade-runtime.git"
+      "url": "https://github.com/jfromaniello/jam-jade-runtime.git"
     }
   ],
   "github": "http://github.com/jfromaniello/jam-jade-runtime",
